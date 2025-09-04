@@ -12,5 +12,5 @@
 ---
 
 ## 📋 Quick Access  
-- [![View Repository](https://img.shields.io/badge/View_Repository-NOW-blueviolet)](https://github.com/Parallels-Desktop/parallels-desktop-macos)  
-- [![Setup Guide](https://img.shields.io/badge/Setup-Guide-blueviolet)](https://github.com/Parallels-Desktop/parallels-desktop-macos)  
+- [![View Repository](https://img.shields.io/badge/View_Repository-NOW-blueviolet)](https://github.com/Parallels-Desktop-macOS/parallels-desktop-macos)  
+- [![Setup Guide](https://img.shields.io/badge/Setup-Guide-blueviolet)](https://github.com/Parallels-Desktop-macOS/parallels-desktop-macos)  
